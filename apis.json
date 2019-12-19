@@ -1,0 +1,81 @@
+{
+    "name": "ProgrammableWeb",
+    "description": "The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web???s most relied-on API Directory",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/96-programmableweb.jpg",
+    "tags": [
+        "discovery",
+        "have api",
+        "news"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/programmableweb\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ProgrammableWeb",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/96-programmableweb.jpg",
+            "humanURL": "http:\/\/www.programmableweb.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/programmableweb-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.programmableweb.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.programmableweb.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds2.feedburner.com\/programmableweb"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/programmableweb"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/programmableweb"
+        },
+        {
+            "type": "Email",
+            "url": "david.berlind@programmableweb.com"
+        },
+        {
+            "type": "Email",
+            "url": "editor@programmableweb.com"
+        },
+        {
+            "type": "Email",
+            "url": "wendell@programmableweb.com"
+        },
+        {
+            "type": "Email",
+            "url": "kevin@programmableweb.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/programmableweb"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/programmableweb"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.programmableweb.com\/"
+        }
+    ]
+}
