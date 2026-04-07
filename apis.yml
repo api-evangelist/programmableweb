@@ -13,9 +13,9 @@ tags:
   - API Aggregation
   - API Directory
   - API Discovery
-  - Mashups
-  - Developer Resources
   - Archived
+  - Developer Resources
+  - Mashups
 url: >-
   https://raw.githubusercontent.com/api-evangelist/programmableweb/refs/heads/main/apis.yml
 created: '2026-03-26'
@@ -34,8 +34,8 @@ apis:
     tags:
       - API Directory
       - API Discovery
-      - Mashups
       - Archived
+      - Mashups
     properties:
       - type: Website
         url: https://www.programmableweb.com
