@@ -42,6 +42,10 @@ apis:
       - type: Wikipedia
         url: https://en.wikipedia.org/wiki/ProgrammableWeb
 common:
+  - type: GitHubOrganization
+    url: https://github.com/programmableweb
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/programmableweb
   - type: Website
     url: https://www.programmableweb.com
   - type: Retirement Notice
