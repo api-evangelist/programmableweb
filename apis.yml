@@ -65,6 +65,11 @@ apis:
       - type: Wikipedia
         url: https://en.wikipedia.org/wiki/ProgrammableWeb
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/alcatel-lucent/
+    name: Alcatel-Lucent
+    x-relationship: acquired
+    x-evidence: "It was acquired by Alcatel-Lucent in 2010, sold to MuleSoft in 2013, and ultimately shut down in October 2022 following Salesforce's acquisition of MuleSoft."
   - type: DomainSecurity
     url: security/programmableweb-domain-security.yml
   - type: GitHubOrganization
