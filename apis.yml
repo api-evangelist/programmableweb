@@ -84,7 +84,7 @@ common:
     url: https://web.archive.org/web/2022/https://www.programmableweb.com
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/ProgrammableWeb
-  - type: Blog Post
+  - type: Article
     url: https://apievangelist.com/2022/10/15/programmableweb-is-shutting-down/
   - type: History
     url: https://apievangelist.com/2012/12/30/history-of-apis-programmableweb/
