@@ -7,6 +7,7 @@ description: >-
   acquired by Alcatel-Lucent in 2010, sold to MuleSoft in 2013, and ultimately
   shut down in October 2022 following Salesforce's acquisition of MuleSoft.
   The site's content is preserved through the Internet Archive's Wayback Machine.
+x-status: defunct
 type: Index
 deliveryModel:
   model: unknown
@@ -39,6 +40,7 @@ tags:
   - Archived
   - Developer Resources
   - Mashups
+  - Defunct
 url: >-
   https://raw.githubusercontent.com/api-evangelist/programmableweb/refs/heads/main/apis.yml
 created: '2026-03-26'
