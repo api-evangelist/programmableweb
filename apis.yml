@@ -67,6 +67,12 @@ apis:
       - type: Wikipedia
         url: https://en.wikipedia.org/wiki/ProgrammableWeb
 common:
+  - type: Plans
+    url: plans/programmableweb-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/programmableweb-rate-limits.yml
+  - type: FinOps
+    url: finops/programmableweb-finops.yml
   - type: ParentCompany
     url: https://apis.io/providers/alcatel-lucent/
     name: Alcatel-Lucent
