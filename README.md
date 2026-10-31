@@ -1,4 +1,4 @@
-# ProgrammableWeb (programmableweb)
+# ProgrammableWeb
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,52 +64,67 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
+
 ProgrammableWeb was the original API directory and developer resource, founded by John Musser in 2005, documenting over 19,000 open web APIs and thousands of mashups and applications over 17 years of operation. It was acquired by Alcatel-Lucent in 2010, sold to MuleSoft in 2013, and ultimately shut down in October 2022 following Salesforce's acquisition of MuleSoft. The site's content is preserved through the Internet Archive's Wayback Machine.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/programmableweb/refs/heads/main/apis.yml)
+**Areas:** API Aggregation · API Directory · API Discovery · Archived · Developer Resources · Mashups · Defunct
 
-## Scope
+## ProgrammableWeb on APIs.io (historical record)
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for ProgrammableWeb is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/programmableweb/](https://apis.io/providers/programmableweb/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - API Aggregation, API Directory, API Discovery, Archived, Developer Resources, Mashups
+- [ProgrammableWeb API Directory](https://apis.io/apis/programmableweb/programmableweb-directory/) — ProgrammableWeb maintained the world's largest directory of open web APIs, mashups, and developer tools. The directory documented over 19,000 APIs and…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-26
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### ProgrammableWeb API Directory
-ProgrammableWeb maintained the world's largest directory of open web APIs, mashups, and developer tools. The directory documented over 19,000 APIs and served as the primary resource for API discovery from 2005 to 2022. The site has been retired and content is available through the Internet Archive.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://web.archive.org/web/2022/https://www.programmableweb.com](https://web.archive.org/web/2022/https://www.programmableweb.com)
+- [Programmableweb Domain Security](https://apis.io/security/programmableweb/programmableweb-domain-security/)
 
-#### Tags:
+#### Plans and pricing (1)
 
- - API Directory, API Discovery, Archived, Mashups
+Published plans, tiers and prices.
 
-#### Properties
+- [Programmableweb Plans Pricing](https://apis.io/plans/programmableweb/programmableweb-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Programmableweb Rate Limits](https://apis.io/rate-limits/programmableweb/programmableweb-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Programmableweb Finops](https://apis.io/finops/programmableweb/programmableweb-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.programmableweb.com)
-- [Wikipedia](https://en.wikipedia.org/wiki/ProgrammableWeb)
+- [GitHub](https://github.com/programmableweb)
 
-## Common Properties
+## API Evangelist rating
 
-- [Website](https://www.programmableweb.com)
-- [Retirement Notice](https://www.mulesoft.com/programmableweb)
-- [Internet Archive](https://web.archive.org/web/2022/https://www.programmableweb.com)
-- [Wikipedia](https://en.wikipedia.org/wiki/ProgrammableWeb)
-- [Blog Post](https://apievangelist.com/2022/10/15/programmableweb-is-shutting-down/)
-- [History](https://apievangelist.com/2012/12/30/history-of-apis-programmableweb/)
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-## Maintainers
+## How this profile is made
 
-**FN:** Kin Lane
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-**Email:** kin@apievangelist.com
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ProgrammableWeb: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/programmableweb/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
